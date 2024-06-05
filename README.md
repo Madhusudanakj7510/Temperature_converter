@@ -1,4 +1,4 @@
-The project you provided appears to be a web-based temperature converter. Here's a brief explanation of its key features:
+The project appears to be a web-based temperature converter. Here's a brief explanation of its key features:
 
 1. *Title and Background Image:* The web page has a title "Temperature Converter," and it uses a background image (specified in the CSS) to create an attractive visual backdrop for the content.
 
@@ -16,6 +16,4 @@ The project you provided appears to be a web-based temperature converter. Here's
 
 The primary functionality of this web page is to allow users to input a temperature value in any of the three units (Fahrenheit, Celsius, or Kelvin), and the page should ideally provide real-time conversions to the other two units as the user enters a value.
 
-While the provided code contains the styling for the web page, it lacks the JavaScript logic necessary to perform the temperature conversions. You would need to implement JavaScript to make this temperature converter functional by adding logic to convert temperature values between the different units based on user input.
-
-In summary, this project aims to create a visually appealing and functional temperature converter web page, but the conversion logic itself is not included in the code you provided.
+In summary, this project aims to create a visually appealing and functional temperature converter web page.
